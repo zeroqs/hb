@@ -21,7 +21,7 @@ function App() {
     <div>
       <Confetti width={windowSize.width} height={windowSize.height} />
 
-      <h1 style={{ fontSize: "3rem", color: "#ff69b4" }}>
+      <h1 style={{ fontSize: "3rem", color: "#ff69b4", marginTop: "5px" }}>
         С Днём Рождения, любимая мамуля!
       </h1>
       <h1 style={{ fontSize: "2rem", color: "#ff69b4" }}>🎂</h1>

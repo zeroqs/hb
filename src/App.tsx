@@ -24,7 +24,7 @@ function App() {
       <h1 style={{ fontSize: "3rem", color: "#ff69b4" }}>
         С Днём Рождения, любимая мамуля!
       </h1>
-      <h1 style={{ fontSize: "3rem", color: "#ff69b4" }}>🎂 🎉</h1>
+      <h1 style={{ fontSize: "2rem", color: "#ff69b4" }}>🎂</h1>
 
       <p style={{ fontSize: "1.2rem", marginTop: "2rem", color: "#ff69b4" }}>
         🎁 Желаю радости, тепла и вдохновения каждый день! 🧁
